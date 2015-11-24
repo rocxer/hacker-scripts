@@ -1,3 +1,6 @@
+帅到爆了，故事from http://36kr.com/p/5040040.html
+学习，并且改进他。
+#居然能让咖啡机煮咖啡。
 # Hacker Scripts
 
 Based on a _[true
